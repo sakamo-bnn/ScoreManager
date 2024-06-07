@@ -26,6 +26,7 @@ public class Ex03 : MonoBehaviour
         // PlayerPrefs.DeleteAll();
 
         // 配列を昇順に並び替える(ソート)
+        // ここにコードを書こう;
         System.Array.Sort(scoreList);
 
         // 改めてスコアリストを確認する
