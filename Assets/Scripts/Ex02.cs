@@ -18,7 +18,7 @@ public class Ex02 : MonoBehaviour
         Debug.Log("ScoreB: " + ScoreB);
 
         // 高い方のスコアを保存する
-        ここにコードを書こう;
+        // ここにコードを書こう;
 
         // 保存したスコアの読み出し
         Debug.Log(PlayerPrefs.GetInt(scoreKey) + "が保存されているよ");

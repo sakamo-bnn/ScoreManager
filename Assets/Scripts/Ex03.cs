@@ -25,19 +25,19 @@ public class Ex03 : MonoBehaviour
         PrintScoreList(scoreList);
 
         // 配列を昇順に並び替える(ソート)
-        ここにコードを書こう;
+        // ここにコードを書こう;
 
         // 改めてスコアリストを確認する
         PrintScoreList(scoreList);
 
         // 1位を記録する
-        ここにコードを書こう;
+        // ここにコードを書こう;
 
         // 2位を記録する
-        ここにコードを書こう;
+        // ここにコードを書こう;
 
         // 3位を記録する
-        ここにコードを書こう;
+        // ここにコードを書こう;
 
         // PlayerPrefsに保存した内容を確認する
         PrintSavedScore(scoreKeyList);
