@@ -23,26 +23,21 @@ public class Ex03 : MonoBehaviour
 
         // スコアリストを確認する
         PrintScoreList(scoreList);
-        // PlayerPrefs.DeleteAll();
 
         // 配列を昇順に並び替える(ソート)
-        // ここにコードを書こう;
-        System.Array.Sort(scoreList);
+        ここにコードを書こう;
 
         // 改めてスコアリストを確認する
         PrintScoreList(scoreList);
 
         // 1位を記録する
-        // ここにコードを書こう;
-        PlayerPrefs.SetInt(scoreKeyList[0], scoreList[3]);
+        ここにコードを書こう;
 
         // 2位を記録する
-        // ここにコードを書こう;
-        PlayerPrefs.SetInt(scoreKeyList[1], scoreList[2]);
+        ここにコードを書こう;
 
         // 3位を記録する
-        // ここにコードを書こう;
-        PlayerPrefs.SetInt(scoreKeyList[2], scoreList[1]);
+        ここにコードを書こう;
 
         // PlayerPrefsに保存した内容を確認する
         PrintSavedScore(scoreKeyList);

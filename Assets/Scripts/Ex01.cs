@@ -15,13 +15,11 @@ public class Ex01 : MonoBehaviour
 
         // スコアを保存する処理
         // ここにコードを書こう;
-        PlayerPrefs.SetInt(scoreKey, score);
 
         Debug.Log("保存したスコア: " + score);
 
         // スコアを読み出す処理
-        // int readScore = ここにコードを書こう;
-        int readScore = PlayerPrefs.GetInt(scoreKey);
+        int readScore = ここにコードを書こう;
 
         Debug.Log("読み込んだスコア: " + readScore);
     }
